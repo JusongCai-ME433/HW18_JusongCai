@@ -1,1 +1,3 @@
 # HW18_JusongCai
+
+In HW18, this is the final project-Tech cup. I collected together everything about the robot car, PIC32 programs and Android device apps that are related to this final project in order to make the car move reasonably. I 3D printed the wheels, laser cut the body, and assemble all parts together. As for software, I put together the image processing and the PI controller, which you can refer to in folders in this repo. And also, the result/outcome which is the demo video is attached up in this repo for you to check it out. Further improvements could be implemented in this project if more time and space could be provided. Hope to work on it further and deeper since it can be applied to the technology of AI driving in modern days.
